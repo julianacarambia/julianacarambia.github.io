@@ -1,6 +1,12 @@
 h1 {color:pink;}
 #f1 {color:purple;}
 .f2 {color:orange;}
-#grande .interior em {
-  color: red; 
+#CCS .b1 {
+  color: black; 
   background-color: pink;}
+.b2 {
+  color: black; 
+  background-color: purple;}
+ .b3 {
+  color: black; 
+  background-color: orange;}  
