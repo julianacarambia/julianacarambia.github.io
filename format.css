@@ -1,3 +1,6 @@
 h1 {color:pink;}
 #f1 {color:purple;}
 .f2 {color:orange;}
+.f3 {
+  color: black; 
+  background-color: purple;}
